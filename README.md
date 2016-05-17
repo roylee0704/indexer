@@ -29,6 +29,8 @@ Indexer, an experimental project in Golang.
 
 This is under an assumption that a token is surrounded by control-breaks. Ignore first-half of control-breaks, end of token is found when last-half of control-break found. i.e: "cbcbcbcb**TokenFound**cbcb".
 
+I have concluded that the same splitTerm isn't able to use to scan more than 2 languages even by tweaking the sig/insig chars.
+
 
 In general, there are 2 cases in the function:
 
