@@ -26,6 +26,8 @@ func (tf termVector) String() string {
 	return s
 }
 
+// harvest consumes data from reader (line by line), and
+// splits out termVector -- (term - []hits)
 func harvest(r io.Reader) termVector {
 
 	freq := make(termVector)
