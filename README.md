@@ -21,8 +21,14 @@ Indexer, an experimental project in Golang.
 
 ## Specification:
 
-### SplitFunc
-This is under an assumption that a token is surrounded by control-breaks. To obtain the token, ignore first-half of control-breaks, and a token is found when last-half of control-break found. i.e: "cbcbcbcb**TokenFound**cbcb"
+### SplitFunc(buf []byte, atEOF bool) (advance int, token []byte, err)
+
+- `advance`: how much you can ignore on the next iteration.
+- `token`: word/term extracted, if any.
+- `err`: error
+
+This is under an assumption that a token is surrounded by control-breaks. Ignore first-half of control-breaks, end of token is found when last-half of control-break found. i.e: "cbcbcbcb**TokenFound**cbcb".
+
 
 In general, there are 2 cases in the function:
 
@@ -32,5 +38,23 @@ In general, there are 2 cases in the function:
   - atEOF: return len(token), token, err = finalToken
 
 ####Example: ScanWords(control-break = '/space')
-**Case#1**: "ABC ".
-**Case#2**: "ABC".
+**Test-Case#1**: "ABC ".
+
+- advance: 4 (may ignore the entire buffer)
+- token: "ABC"
+- err: nil
+
+**Test-Case#2**: "  ABC".
+
+a) !atEOF:
+
+  - advance: 2 (ignore first-half of control break)
+  - token: ""
+  - err: nil
+
+
+b) atEOF: return remaining data as token(w/o first-half of control-break)
+
+  - advance: 5
+  - token: "ABC"
+  - err: nil
