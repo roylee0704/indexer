@@ -23,7 +23,7 @@ Indexer, an experimental project in Golang.
 
 ### SplitFunc(buf []byte, atEOF bool) (advance int, token []byte, err)
 
-- `advance`: how much you can ignore on the next iteration.
+- `advance`: how much you can ignore on the next iteration (total # of runes)
 - `token`: word/term extracted, if any.
 - `err`: error
 
