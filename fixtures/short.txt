@@ -1,0 +1,247 @@
+Poems.txt
+
+Here is a poem from the Journal of Irreproducible Results due to
+Norm Chansky of Swathmore, PA
+contributed by Stephen Baker <sbaker@UMASSMED.UMMED.EDU>
+
+                Mean and SD                  |
+                    by                       |   Karl's question to his
+               Norman M. Chansky             |          Students:
+                                             |
+The mean is a measure of location,           |
+The center of a population.                  |  What are the distributional
+                                             |  assumptions made by the
+If at random a score you drew,               |  author of this poem?  Do not
+The mean's the most likely score you'd view. |  be misled by the use of the
+                                             |  word "location," often used
+You could compute the mean in your slumber.  |  by those who prefer statistics
+Sum the scores and divide by the number.     |  without distributional
+                                             |  assumptions.
+At the mean sample scores converge;          |
+From the mean these scores diverge.          |
+                                             |
+Near the mean the scores are many.           |
+In the tails, there's hardly any.            |
+
+To measure a distribution's variation,
+From the mean find each score's deviation.
+Each difference of D score now you square.
+Sum all D scores, all scores' share.
+Now this sum devide by N.
+That's V, the variance, then.
+
+The square root of V is called S.D.,
+The gauge of a trait's variability.
+We've found two moments of a distribution,
+Developed from each score's contribution.
+
+Picturing a universe, try to see,
+Its center's the mean; its orbit, S.D.
+
+=============================================================================
+
+Here is the poem I (K. Wuensch) received when I asked the BIALIK server at
+BRANDEIS.BITNET randomly to select a poem for me.
+
+Plato, despair!
+We prove by norms
+How numbers bear
+Empiric forms,
+
+How random wrong
+Will average right
+If time be long
+And errors slight;
+
+But in our hearts
+Hyperbole
+Curves and departs
+To infinity.
+
+Error is boundless.
+Nor hope nor doubt,
+Though both be groundless,
+Will average out.
+
+Meditation on Statistical Method
+======================================================================== 29
+Sender:       "Statistics Education Discussion" <EDSTAT-L@NCSUVM.BITNET>
+From:         Allen Herzog <U50161@UICVM.BITNET>
+Subject:      Statistics Poem   by V. J. Cunningham
+
+     The poem by V.J. Cunningham "Meditation on Statistical Method"
+being available at Brandeis University (see note by K.J. Wuensch)
+is not solely a matter of randomness.  Cunningham taught English
+literature for many years at Brandeis and poetry of high literary
+quality about statistics is relatively rare.  To further perturb
+us about coincidence.  In a very recent issue of "Physics Today"
+the poem is quoted at the end of an article on the application of
+statistics in physics.
+     Cunningham who was a poet who left a very small corpus of
+work, mainly literary criticism, and a book of his collected poems
+published in 1971.  He was an epigrammatic poet and wrote a number
+of short obscene epigrams of great elegance.  The influence of
+Martial and Catullus is present in his work.  The quoted poem seems
+to have been written sometime about 1946 and shows a clear understanding
+of the statistical concepts he describes.  He has one other poem with
+a mathematical theme, some 4 lines about the calculus.
+      It is good to see his elegant and cynical work brought to the
+attention of a statistical audience.
+                                                Allen
+                                                U50161@UICVM
+J. V. Cunningham
+========================================================================
+After the students left my statistics class yesterday, I saw a
+crumpled piece of notebook paper on the floor in the back of the
+room where some of my less enthusiastic students like to sit.  I
+picked it up and was about to throw it away when my curiosity got
+the best of me.  I flattened it out and found the following
+verses:
+
+     On statistical terminology
+
+          by Cory Lation
+
+Whoever invented statistical terms
+Had a head that was stuffed with worms.
+All these new words are so much junk,
+And if I don't learn them, I'm really sunk.
+
+Why's the bell-shaped curve called normal?
+Is it normal to be so formal?
+There's nothing mean about the mean.
+Its just average, as is clearly seen.
+And what's so standard about that deviation?
+Its a really malicious creation.
+Confusing students is its only function.
+It frustrates and mystifies, in conjunction.
+
+And who needs the variance?
+It only rhymes with hairy ants.
+Variance is what analysis is of,
+But all my friends would just love
+To take all the sums of squares we've seen
+And put them within the instructor's between.
+
+I'm just not sure about probability.
+I think it caused the prof's early senility.
+I often frequent relatively conditional joints,
+But that won't get me statistical points.
+
+"Histogram" throws me, at least a bit.
+I remember the first time I heard of it.
+I wanted an antihistogram to get rid of it.
+But then I studied it, and after some beers,
+I learned its a bar chart--there went my fears.
+Just a bar chart--like Norm's tab at Cheers.
+
+Skewness and kurtosis, there's a pair:
+Something you'd wash out of your hair.
+
+Research design, such a burn,
+Just more weird terms to learn.
+Your constructs are valid, so's your internal,
+But if your validity isn't also external,
+You should flush your data down the urinal
+Or you'll go to a place where the heat is infernal
+And study statistics for time eternal.
+
+Then there's t, a test with jam and bread?
+And F, the test that we all dread.
+And what's so square about the chi?
+If I don't get to the root of it, I'll just die.
+
+Scatterplots, boxplots, stems-and-leaves grow,
+Sounds like a radio gardening show.
+
+Heteroscedasticity, now there's a word.
+I think its when a turtle mates with a bird.
+
+Then we study regression analysis,
+A major cause of mental paralysis.
+Least squares I like--minimize the nerds!
+They like numbers better than words.
+The most cools straight line--that's what we need.
+I think I know where that line will lead.
+Straight out of this class.
+Were nearly done with this morass,
+And my rhymes are running out of gas.
+There's no chance I'll ever pass....
+
+
+From: Tom Stewart <TS460%ALBNYVMS.bitnet@uacsc2.albany.edu>
+--------------------------------------------------------------
+Tom Stewart                             Phone:  (518) 442-3850
+Center for Policy Research              FAX:    (518) 442-3398
+Milne 300
+State University of New York
+Albany, NY 12222                        T.STEWART@ALBANY.EDU
+--------------------------------------------------------------
+Sender:       UGA Humor List <HUMOR@uga.cc.uga.edu>
+From:         Joe Mole <JOEMOLE%USCN.BITNET@uga.cc.uga.edu>
+Subject:      Magic of Statistics <poem>
+To:           Multiple recipients of list HUMOR <HUMOR@uga.cc.uga.edu>
+
+               The Magic of Statistics
+
+             The statistician spends his days,
+             In figuring out the many ways,
+             In which a standard error can,
+             Enclose by bars the average man.
+             And having thus imprisoned him,
+             Perhaps at some researcher's whim,
+             Can with the same chicanery,
+             Enlarge the bars and set him free.
+             Or better yet, within the sample,
+             Locate some points with girth so ample,
+             That if by "choice" they were discarded,
+             Man and hypothesis are safeguarded.
+==================================================================
+Date: Fri, 25 Nov 1994 14:40:18 -0500 (EST)
+From: FLOM@MURRAY.FORDHAM.EDU
+To: edstat-l@jse.stat.ncsu.edu
+Subject: A humorous poem
+
+ Well, maybe this isn't entirely appropriate for this list, but
+what the heck.....Anyone who doesn't have a sense of humor can hit delete
+now.
+
+  Dissertation Blues
+  or Why I should have paid attention in stats class
+  by Peter Flom
+
+I've designed a great experiment
+And collected all my data.
+I've no idea what it all means
+I'll get to that stuff later.
+
+I've forgotten all the stats I learned,
+And I never learned that much.
+I needed it to pass my comps
+But since then I've lost touch.
+
+I'll do another lit review
+And find another theory,
+But when it's time to analyze,
+Everything goes bleary.
+
+So I hired a consultant
+To tell me what I'd got
+He looked at three years of my life
+And answered "Not a lot".
+
+"There is no dissertation here,
+There aren't any theses
+Basically what you have got
+Is a great big pile of feces!"
+
+"You should have called me years ago
+Now get this through your head:
+You've hired a physician
+But the patient is quite dead".
+
+
+End        j
+Hope you enjoyed it
+Peter
+flom@murray.fordham.edu
